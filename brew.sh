@@ -59,7 +59,8 @@ brew install \
     fzf \ # fuzzy search
     exa \ # fancy ls
     diff-so-fancy \ # fancy diff for git
-    rmtrash # rm that deletes to trash
+    rmtrash \ # rm that deletes to trash
+    noti # show notifications from terminal
 # dev stuff
 brew install python3
 brew install go
